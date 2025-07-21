@@ -71,7 +71,6 @@ import CSS from "../assets/css-3.png";
 import JS from "../assets/js.png";
 import ReactLogo from "../assets/react.svg";
 import Node from "../assets/nodejs.png";
-import Mongo from "../assets/Express.png";
 import Express from "../assets/Express.png";
 import Tailwind from "../assets/tailwind.png";
 import GitHub from "../assets/github.png";
@@ -88,7 +87,7 @@ const SkillIcon = ({ src, alt }) => (
   </div>
 );
 
-const Skill = () => {
+const TechStack = () => {
   useEffect(() => {
     AOS.init({ duration: 800, once: false });
   }, []);
@@ -143,4 +142,4 @@ const Skill = () => {
   );
 };
 
-export default Skill;
+export default TechStack;

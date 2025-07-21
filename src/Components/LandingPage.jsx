@@ -1,6 +1,6 @@
 import Header from "./Header";
 import Hero from "./Hero";
-import Skills from "./Skill";
+import TechStack from "./TechStack";
 
 
 export default function LandingPage(){
@@ -9,7 +9,7 @@ export default function LandingPage(){
         <div>
     <Header/>
     <Hero/>
-    <Skills/>
+    <TechStack/>
         </div>
     )
 }
