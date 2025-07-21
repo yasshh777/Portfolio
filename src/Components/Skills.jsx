@@ -88,7 +88,7 @@ const SkillIcon = ({ src, alt }) => (
   </div>
 );
 
-const Skills = () => {
+const Skill = () => {
   useEffect(() => {
     AOS.init({ duration: 800, once: false });
   }, []);
@@ -143,4 +143,4 @@ const Skills = () => {
   );
 };
 
-export default Skills;
+export default Skill;

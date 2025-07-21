@@ -1,6 +1,6 @@
 import Header from "./Header";
 import Hero from "./Hero";
-import Skills from "./skills";
+import Skills from "./Skill";
 
 
 export default function LandingPage(){
