@@ -1,19 +1,3 @@
-// export default function Header(){
-
-//     return (
-//         <div className="flex justify-around p-3 text-foreground font-sans border backdrop-blur-md border-border sticky top-0 z-50 shadow-md ">
-//             <h1 className="text-3xl font-bold ">yash lokhande</h1>
-//             <div className="flex gap-5">
-//                 <button>Home</button>
-//                 <button>About</button>
-//                 <button>Projects</button>
-//                 <button>Contacts</button>
-//                 <button>Resume</button>
-//             </div>
-//         </div>
-//     )
-// }
-
 import { useState } from "react";
 
 export default function Header() {
