@@ -29,7 +29,7 @@ export default function Contact() {
             className="h-10 w-10 transform transition-transform hover:scale-110 hover:shadow-xl rounded-xl shadow-md duration-300"
           />
         </a>
-        <a href="https://www.instagram.com/yashh_0202" target="_blank" rel="noreferrer">
+        <a href="https://www.instagram.com/yashhh__0202" target="_blank" rel="noreferrer">
           <img
             src={instagram}
             alt="Instagram"
